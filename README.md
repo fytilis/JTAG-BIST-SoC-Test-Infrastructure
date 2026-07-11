@@ -51,3 +51,16 @@ Designed with a strong focus on Design for Testability (DFT) and Design Verifica
 │   └── JTAG_tb.vhd         # Top-level full JTAG protocol simulation
 │
 └── sim/                    # Simulation waveforms (ModelSim)
+## Tools & Technologies
+Hardware Description Language: VHDL-2008
+
+Simulation & Verification: Siemens EDA ModelSim / Questa
+
+Synthesis & RTL Viewing: Intel Quartus Prime
+
+Methodologies: DFT, BIST, JTAG (IEEE 1149.1), FSM Design, Fault Injection
+
+## Author
+Athanasios Fytilis (5381)
+
+Computer Science & Computer Engineering
