@@ -24,3 +24,5 @@ begin
             Q_state <= D_input;
         end if;
     end process;
+    TDO_BR <= Q_state;
+end Behavioral;
